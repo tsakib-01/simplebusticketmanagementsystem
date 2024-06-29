@@ -1,0 +1,19 @@
+**********************************************************************
+*************//HOW TO OPEN OR USE THE PROJECT//***********************
+**********************************************************************
+
+
+
+STEP-01: Download the file in your desktop, if it is in a zip file then extract it after that copy the file and paste it on your "htdocs" in XAMPP.
+
+STEP-02: Turn on your XAMPP Controls when its on, just type localhosthttp://localhost/phpmyadmin... it should take you to the all your databases navigate on the left side panel there you can create a database of any name you desire, after creating your database name then press "New" under your database name then click on "import". Now, Go to "SimpleBusTicket-PHP" Enter "DATABASE FILE" you will see a database named "simnpledemo" import that database.
+
+STEP-03: Finally just change all the "servername" on your php files to your database's name and your good to go!
+
+
+************************************************************************
+*********************//Have Fun Coding//********************************
+************************************************************************
+
+
+
